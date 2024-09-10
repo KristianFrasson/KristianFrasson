@@ -9,7 +9,7 @@ class Kristian:
         self.language_proficiency = {
             'Portuguese': 'native',
             'English': {
-                'reading': 'advanced',
+                'reading': 'intermediate',
                 'understanding': 'intermediate',
                 'speaking': 'basic'
             }
