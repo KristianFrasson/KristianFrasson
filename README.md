@@ -1,3 +1,6 @@
+# About Me
+
+```python
 class Kristian:
     def __init__(self):
         self.name = "Kristian"
@@ -6,7 +9,7 @@ class Kristian:
         self.language_proficiency = {
             'Portuguese': 'native',
             'English': {
-                'reading': 'intermediate',
+                'reading': 'advanced',
                 'understanding': 'intermediate',
                 'speaking': 'basic'
             }
@@ -18,7 +21,7 @@ class Kristian:
         }
         self.interests = [
             "system administration", "web development", 
-            "algorithms", "artificial intelligence",
+            "algorithms", "artificial intelligence", 
             "Cyber Security"
         ]
         self.hobbies = ["customizing peripherals", "developing hardware", "competitive gaming"]
@@ -26,15 +29,15 @@ class Kristian:
     def skills(self) -> Dict[str, List[str]]:
         return {
             'programming_languages': ['PHP', 'Python', 'C#', 'SQL'],
-            'tools': ['Docker', 'VSCode', 'GitHub'],
+            'tools': ['Docker', 'VSCode', 'Github'],
             'web_development': ['Backend-focused'],
             'data_manipulation': ['SQL', 'Excel', 'VBA']
         }
 
-    def learning(self) -> Dict[str, List[str]]:
+    def learning(self() -> Dict[str, List[str]]:
         return {
             'current_focus': [
-                "low-level programming with C++", 
+                "low-level programming with C++",
                 "JavaScript",
                 "computer architecture",
                 "operating systems",
@@ -56,11 +59,11 @@ class Kristian:
     def contact(self) -> Tuple[str, str, str, str]:
         github = "github.com/KristianFrasson"
         linkedin = "linkedin.com/in/kristian-frasson-49a286288/"
-        steam = "steamcommunity.com/id/krsf1/"
+        steam = "steamcommunity.com/id/krsfl/"
         gear = "gearz.gg/ferox"
         return github, linkedin, steam, gear
 
-    def fun_facts(self) -> List[str]:
+    def fun_facts(self() -> List[str]]:
         return [
             "I've been passionate about technology since childhood, starting with Minecraft plugin development.",
             "I customize high-performance peripherals and hardware as a hobby.",
@@ -69,5 +72,6 @@ class Kristian:
         ]
 
 # Connect with me and let's talk tech!
+
 kristian = Kristian()
 print(kristian.contact())
