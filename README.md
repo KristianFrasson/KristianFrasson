@@ -1,5 +1,9 @@
 # About Me
 
+<table>
+<tr>
+<td>
+
 ```python
 class Kristian:
     def __init__(self):
@@ -75,3 +79,5 @@ class Kristian:
 
 kristian = Kristian()
 print(kristian.contact())
+
+</td> <td> <img src="1.gif" alt="GIF" style="width: 300px;"/> </td> </tr> </table> ```
