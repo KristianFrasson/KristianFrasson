@@ -1,7 +1,9 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <h2>About Me</h2>
-    <img src="https://i.pinimg.com/originals/fd/30/84/fd30846b19ff684f079d23b217a481e8.gif" alt="GIF" style="width: 200px;"/>
+  </div>
+  <div>
+    <img src="https://i.pinimg.com/originals/cd/4d/69/cd4d694724cfae583f5289517dbc1735.gif" alt="GIF" style="width: 200px;"/>
   </div>
 </div>
 
