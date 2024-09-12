@@ -1,5 +1,5 @@
 <h2> About Me <img src="https://i.pinimg.com/originals/c5/4b/8a/c54b8a98c242d3f79e273ef5e5cda7ca.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://i.pinimg.com/originals/95/58/b9/9558b95660d31cdbfb19167da2a707f4.gif" width="230">
 
 ```python
 class Kristian:
