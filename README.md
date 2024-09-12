@@ -64,7 +64,7 @@ class Kristian:
 
     def contact(self) -> Tuple[str, str, str, str]:
         github = "github.com/KristianFrasson"
-        linkedin = "linkedin.com/in/kristian-frasson-49a286288/"
+        linkedin = "linkedin.com/in/kristianfrasson/"
         steam = "steamcommunity.com/id/krsfl/"
         gear = "gearz.gg/ferox"
         return github, linkedin, steam, gear
@@ -76,8 +76,6 @@ class Kristian:
             "I'm always seeking ways to improve business efficiency through technological solutions.",
             "I play competitive electronic games as a hobby."
         ]
-
-# Connect with me and let's talk tech!
 
 kristian = Kristian()
 print(kristian.contact())
