@@ -1,11 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h2 align="left">About Me</h2>
-  </div>
-  <div>
-    <img src="https://i.pinimg.com/originals/db/4d/dd/db4ddd1e810aa23354a464c5a9be5e99.gif" alt="GIF" style="width: 200px;"/>
-  </div>
-</div>
+<h2> About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ```python
 class Kristian:
@@ -82,3 +75,4 @@ class Kristian:
 
 kristian = Kristian()
 print(kristian.contact())
+```
