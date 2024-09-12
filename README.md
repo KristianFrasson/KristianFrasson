@@ -1,16 +1,5 @@
 # About Me
 
-<table>
-<tr>
-<td>
-<p>About Me</p>
-</td>
-<td>
-<img src="https://i.pinimg.com/originals/db/4d/dd/db4ddd1e810aa23354a464c5a9be5e99.gif" alt="GIF" style="width: 300px;"/>
-</td>
-</tr>
-</table>
-
 ```python
 class Kristian:
     def __init__(self):
