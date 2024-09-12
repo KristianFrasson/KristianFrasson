@@ -1,5 +1,5 @@
-<img src="https://i.pinimg.com/originals/cd/4d/69/cd4d694724cfae583f5289517dbc1735.gif" allign="right" style="width: 200px;"/>
-<h2 allign="left">About Me</h2>
+<img src="https://i.pinimg.com/originals/cd/4d/69/cd4d694724cfae583f5289517dbc1735.gif" align="right" style="width: 200px;"/>
+<h2 align="left">About Me</h2>
 
 
 ```python
