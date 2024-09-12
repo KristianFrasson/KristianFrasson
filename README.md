@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/fd/30/84/fd30846b19ff684f079d23b217a481e8.gif" alt="Descrição da imagem" style="max-width: 100%; height: auto;">
+<img src="https://i.pinimg.com/originals/fd/30/84/fd30846b19ff684f079d23b217a481e8.gif"  min-width="300px" max-width="300px "width="300px" allign="right" alt="logo readme">
 
 # About Me
 
