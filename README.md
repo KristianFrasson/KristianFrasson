@@ -1,4 +1,14 @@
-# About Me <img src="https://i.pinimg.com/originals/fd/30/84/fd30846b19ff684f079d23b217a481e8.gif"/>
+<table>
+<tr>
+<td>
+<h2>About Me</h2>
+</td>
+<td>
+<img src="https://i.pinimg.com/originals/db/4d/dd/db4ddd1e810aa23354a464c5a9be5e99.gif" alt="GIF" style="width: 100px;"/>
+</td>
+</tr>
+</table>
+
 ```python
 class Kristian:
     def __init__(self):
