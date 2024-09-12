@@ -1,6 +1,11 @@
 <h2> About Me <img src="https://i.pinimg.com/originals/c5/4b/8a/c54b8a98c242d3f79e273ef5e5cda7ca.gif" width="50"></h2>
 <img align='right' src="https://i.pinimg.com/originals/d7/1e/c3/d71ec3b3901cb6e71b14a2764521d559.gif" width="230">
 
+[![Twitter: whykrsf](https://img.shields.io/twitter/follow/whykrsf?style=social)](https://twitter.com/whykrsf)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-kristianfrasson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kristianfrasson/)](https://www.linkedin.com/in/kristianfrasson/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/KristianFrasson?label=follow&style=social)](https://github.com/KristianFrasson)
+
+
 ```python
 class Kristian:
     def __init__(self):
