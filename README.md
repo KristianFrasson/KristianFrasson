@@ -1,4 +1,4 @@
-<h2> About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> About Me <img src="https://i.pinimg.com/originals/c5/4b/8a/c54b8a98c242d3f79e273ef5e5cda7ca.gif" width="50"></h2>
 
 ```python
 class Kristian:
