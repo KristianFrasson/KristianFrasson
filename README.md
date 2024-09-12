@@ -1,6 +1,11 @@
-<img src="https://i.pinimg.com/originals/cd/4d/69/cd4d694724cfae583f5289517dbc1735.gif" align="right" style="width: 200px;"/>
-<h2 align="left">About Me</h2>
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h2 align="left">About Me</h2>
+  </div>
+  <div>
+    <img src="https://i.pinimg.com/originals/db/4d/dd/db4ddd1e810aa23354a464c5a9be5e99.gif" alt="GIF" style="width: 200px;"/>
+  </div>
+</div>
 
 ```python
 class Kristian:
