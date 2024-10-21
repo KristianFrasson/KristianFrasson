@@ -80,6 +80,8 @@ class Kristian:
 kristian = Kristian()
 print(kristian.contact())
 ```
+<br>
+
 
 <div>
 <a href="https://github.com/KristianFrasson">
