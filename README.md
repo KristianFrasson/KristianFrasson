@@ -10,7 +10,6 @@
 class Kristian:
     def __init__(self):
         self.name = "Kristian"
-        self.age = 22
         self.location = "Brazil, Rio Grande do Sul"
         self.language_proficiency = {
             'Portuguese': 'native',
@@ -20,47 +19,12 @@ class Kristian:
                 'speaking': 'basic'
             }
         }
-        self.current_role = "IT Assistant at Continental SP"
+        self.current_role = "CIO at Construtora Continental de São Paulo"
         self.education = {
             'current': "B.S. in Information Systems at Universidade Franciscana (UFN)",
             'past': "Technical degree in Computer Science from SEG Albert Einstein"
         }
-        self.interests = [
-            "system administration", "web development", 
-            "algorithms", "artificial intelligence", 
-            "Cyber Security"
-        ]
         self.hobbies = ["customizing peripherals", "developing hardware", "competitive gaming"]
-
-    def skills(self) -> Dict[str, List[str]]:
-        return {
-            'programming_languages': ['PHP', 'Python', 'C#', 'SQL'],
-            'tools': ['Docker', 'VSCode', 'Github'],
-            'web_development': ['Backend-focused'],
-            'data_manipulation': ['SQL', 'Excel', 'VBA']
-        }
-
-    def learning(self() -> Dict[str, List[str]]:
-        return {
-            'current_focus': [
-                "low-level programming with C++",
-                "JavaScript",
-                "computer architecture",
-                "operating systems",
-                "modeling and simulations"
-            ],
-            'methods': ["agile development", "project management"],
-            'simulation_tools': ["VPython", "queue theory"]
-        }
-
-    def career(self) -> Dict[str, str]:
-        return {
-            'experience': "1 year as IT Assistant",
-            'responsibilities': (
-                "Maintaining infrastructure, administering ERP systems, "
-                "managing servers, providing remote support"
-            )
-        }
 
     def contact(self) -> Tuple[str, str, str, str]:
         github = "github.com/KristianFrasson"
